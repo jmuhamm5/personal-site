@@ -1,0 +1,33 @@
+*{
+
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  height: 1200px;
+}
+
+
+main {
+  flex: 1 0 auto;
+}
+
+nav {
+
+}
+
+footer {
+  
+}
+
+.brand-logo {
+
+}
+
+.page-footer {
+
+}
